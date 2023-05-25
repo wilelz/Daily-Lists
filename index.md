@@ -6,3 +6,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Make Shreya Breakfast
+- [x] Mess around on Git Hub
+- [ ] Do some job apps 
+- [x] Fuck Shreya
+- [ ] Make fun of Dakshina
